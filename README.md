@@ -1,1 +1,3 @@
 # math_puzzle_of_python
+
+数学パズルの全70問をPython3で書いてみる
