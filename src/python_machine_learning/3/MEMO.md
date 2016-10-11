@@ -4,14 +4,24 @@
 ## scikit-learnのドキュメント
 [scikit-learn: machine learning in Python — scikit-learn 0.18 documentation](http://scikit-learn.org/stable/)
 
+### scikit-learnの付属サンプルの説明
+[scikit-learn に付属しているデータセット](http://pythondatascience.plavox.info/scikit-learn/scikit-learn%E3%81%AB%E4%BB%98%E5%B1%9E%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%83%E3%83%88/)
+
 ## 単語の意味
 
 ### パーセプトロンの学習規則
+#### 特徴量を標準化
+
+#### 問題点
+- クラスを完全線形分離できない場合、
+- パーセプトロンだと収束しない
+
 
 ### ADALINE
 
 ### エポック数
-データを何周したかの単位
+- データを何周したかの単位
+- トレーニングの最大回数
 
 参照: [エポック（epoch）について](http://yutasugii.hatenablog.com/entry/2015/12/16/002617)
 
