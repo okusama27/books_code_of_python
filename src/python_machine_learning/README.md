@@ -17,3 +17,6 @@
 ```
 $ jupyter notebook
 ```
+
+## Sample code
+[https://github.com/rasbt/python-machine-learning-book/tree/master/code](https://github.com/rasbt/python-machine-learning-book/tree/master/code)
