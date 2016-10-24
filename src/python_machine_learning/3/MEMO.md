@@ -41,6 +41,8 @@ S字形（シグモイド）曲線
 
 ### 正則化
 
+### 標準化
+
 ### サポートベクトルマシン(Support Vector Machine: SVM)
 - 強力な学習アルゴリズムの一つ
 - パーセプトロンの拡張
@@ -56,3 +58,5 @@ S字形（シグモイド）曲線
 - [高卒でもわかる機械学習 (4) 誤差逆伝播法の前置き](http://hokuts.com/2016/05/27/pre-bp/)
 - [高卒でもわかる機械学習 (5) 誤差逆伝播法 その1](http://hokuts.com/2016/05/29/bp1/)
 - [高卒でもわかる機械学習 (5) 誤差逆伝播法 その2](http://hokuts.com/2016/10/09/bp2/)
+
+- [標準化](http://bio-info.biz/statistics/element_standardization.html)
