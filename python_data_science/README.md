@@ -5,3 +5,18 @@
 
 `データ解析の基本、可視化、統計、機械学習などデータサイエンスに関するあらゆる実践的なスキルがPythonで身に付く！`
 
+## 資料
+
+[Udemy資料](http://www.tsjshg.info/udemy/notebooks.html)
+
+## 環境構築
+
+```
+(env)$ pip install scikit-learn numpy scipy jupyter matplotlib pandas
+```
+
+## Jupyterの起動
+
+```
+$ jupyter notebook
+```
