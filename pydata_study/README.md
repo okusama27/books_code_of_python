@@ -21,4 +21,6 @@ https://pydata.tokyo/ipynb/tutorial-1/dh.html
 https://github.com/PyDataTokyo/pydata-tokyo-tutorial-1
 
 - 課題２
+https://pydata.tokyo/ipynb/tutorial-1/ml.html
+
 https://github.com/PyDataTokyo/pydata-tokyo-tutorial-1/blob/master/pydatatokyo_tutorial_ml.ipynb

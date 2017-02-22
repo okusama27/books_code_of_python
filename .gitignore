@@ -91,3 +91,6 @@ env
 
 # PyCharm
 .idea
+
+# not public data
+connpass_*
