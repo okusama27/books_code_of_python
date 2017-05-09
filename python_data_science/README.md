@@ -15,7 +15,7 @@
 (env)$ pip install scikit-learn numpy scipy jupyter matplotlib pandas
 ```
 
-## Jupyterの起動
+## Jupyter Notebookの起動
 
 ```
 $ jupyter notebook
