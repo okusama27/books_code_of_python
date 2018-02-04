@@ -1,6 +1,12 @@
 # 書籍の問題
 仕事だと同じようなコードしか書かないので、勉強のために本の問題を地味にやっていこうと思っています。
 
+## test_driven_development
+
+テスト駆動開発
+
+<a href="https://www.amazon.co.jp/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-%EF%BC%AB%EF%BD%85%EF%BD%8E%EF%BD%94%EF%BC%A2%EF%BD%85%EF%BD%83%EF%BD%8B-ebook/dp/B077D2L69C/ref=as_li_ss_il?ie=UTF8&qid=1517734283&sr=8-1&keywords=%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95&linkCode=li2&tag=ironhotcom-22&linkId=6566c13dfae2460c706f0d3a8e0573e0" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077D2L69C&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=ironhotcom-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=ironhotcom-22&l=li2&o=9&a=B077D2L69C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ## math_puzzle_of_python
 
 数学パズルの70問をPython3で書いてみる
@@ -24,3 +30,11 @@ Python機械学習プログラミング 達人データサイエンティスト�
 Pythonチュートリアル
 
 <a  href="https://www.amazon.co.jp/gp/product/4873117534/ref=as_li_tf_il?ie=UTF8&camp=247&creative=1211&creativeASIN=4873117534&linkCode=as2&tag=ironhotcom-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4873117534&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=ironhotcom-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=ironhotcom-22&l=as2&o=9&a=4873117534" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+[Web版](https://docs.python.org/ja/3/tutorial/)
+
+## effective_python
+
+Effective Python ―Pythonプログラムを改良する59項目
+
+<a href="https://www.amazon.co.jp/Effective-Python-%E2%80%95Python%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E6%94%B9%E8%89%AF%E3%81%99%E3%82%8B59%E9%A0%85%E7%9B%AE-Brett-Slatkin/dp/4873117569/ref=as_li_ss_il?ie=UTF8&linkCode=li2&tag=ironhotcom-22&linkId=6d4c0039b0a4ce9733a4550268dcb300" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4873117569&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=ironhotcom-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=ironhotcom-22&l=li2&o=9&a=4873117569" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
