@@ -16,8 +16,3 @@ class Dollar:
 
     def times(self, multiplier):
         self.amount *= multiplier
-
-
-if __name__ == '__main__':
-    test = MoneyTest()
-    test.test_multiplication()

@@ -26,8 +26,3 @@ class Dollar:
 
     def __eq__(self, other):
         return self.amount == other.amount
-
-
-if __name__ == '__main__':
-    test = MoneyTest()
-    test.test_multiplication()
