@@ -38,3 +38,9 @@ Pythonチュートリアル
 Effective Python ―Pythonプログラムを改良する59項目
 
 <a href="https://www.amazon.co.jp/Effective-Python-%E2%80%95Python%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%82%92%E6%94%B9%E8%89%AF%E3%81%99%E3%82%8B59%E9%A0%85%E7%9B%AE-Brett-Slatkin/dp/4873117569/ref=as_li_ss_il?s=books&ie=UTF8&qid=1517754395&sr=1-1&keywords=effective+python&linkCode=li2&tag=ironhotcom-22&linkId=65068e4dbbd221b5a3ccb5525e0d8440" target="_blank"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4873117569&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=ironhotcom-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=ironhotcom-22&l=li2&o=9&a=4873117569" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## pytest
+
+テスト駆動Python
+
+<a href="https://www.amazon.co.jp/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95Python-Brian-Okken/dp/4798157600/ref=as_li_ss_il?ie=UTF8&qid=1544708172&sr=8-1&keywords=%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95Python&linkCode=li2&tag=ironhotcom-22&linkId=a0ff27ade9124fa87ad51fd727afd4f3&language=ja_JP" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4798157600&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=ironhotcom-22&language=ja_JP" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=ironhotcom-22&language=ja_JP&l=li2&o=9&a=4798157600" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
